@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yvonnechen1991@gmail.com**
 
-- ⚡ Fun fact **I'm a bilingual who also loves traveling**
+- ⚡ Fun fact **I'm a bilingual who loves traveling**
 
 
 <h3 align="left">Languages and Tools:</h3>
