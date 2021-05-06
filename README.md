@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yvonne-chen-3419b952/)](https://www.linkedin.com/in/yvonne-chen-3419b952/)
 
-- 📝 I regularly write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
+- 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
 - 📫 How to reach me **yvonnechen1991@gmail.com**
 
