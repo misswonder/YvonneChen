@@ -5,7 +5,7 @@
 
 <h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yvonne-chen-3419b952/)](https://www.linkedin.com/in/yvonne-chen-3419b952/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yvonne/)](https://www.linkedin.com/in/chen-yvonne/)
 
 - 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
