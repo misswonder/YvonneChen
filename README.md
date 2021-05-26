@@ -1,7 +1,9 @@
 <h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yvonne Chen! 😄</h1>
 <img src="banner.png" align="center">
 
+
 <h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
+
 
 <h2 align='center'>CONNECT</h2>
 
@@ -32,8 +34,6 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
 
-**Currently Learning:**
-JavaScript Algorithms and Data Structures, Java, TypeScript
 
 <h2 align='center'>STATS</h2>
 
@@ -43,6 +43,11 @@ JavaScript Algorithms and Data Structures, Java, TypeScript
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misswonder" width="350" alt="Most Used Languages Dashboard">
 </p>
+
+
+**Currently Learning:**
+JavaScript Algorithms and Data Structures, Java, TypeScript
+
 
 - 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
