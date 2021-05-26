@@ -32,9 +32,19 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
 
-- 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
+**Currently Learning:**
+JavaScript Algorithms and Data Structures, Java, TypeScript
 
-- 📫 How to reach me **yvonnechen1991@gmail.com**
+<h2 align='center'>STATS</h2>
+
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=misswonde&count_private=true&show_icons=true" width="500" alt="GitHub Stats Dashboard">
+</p>
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misswonde" width="350" alt="Most Used Languages Dashboard">
+</p>
+
+- 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
 - ⚡ Fun fact **I'm a bilingual who loves traveling**
 
