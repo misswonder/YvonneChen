@@ -51,4 +51,4 @@ JavaScript Algorithms and Data Structures, Java, TypeScript
 
 - 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
-- ⚡ Fun fact **I'm a bilingual who loves traveling** ✈🌎
+- ⚡ Fun fact **I'm a bilingual who loves traveling** ✈ 🌎
