@@ -1,6 +1,7 @@
 <h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yvonne Chen! 😄</h1>
 <img src="banner.png" align="center">
 
+<h2 align='center'>INTRO</h2>
 
 <h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
 
