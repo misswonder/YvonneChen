@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
 
+<h2 align='center'>CONNECT</h2>
+
 
 - 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
