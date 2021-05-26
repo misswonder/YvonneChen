@@ -3,7 +3,11 @@
 
 <h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yvonne/)](https://www.linkedin.com/in/chen-yvonne/)
+<h2 align='center'>CONNECT</h2>
+
+<p align='center'>
+    <a href='https://www.linkedin.com/in/chen-yvonne/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 <h3 align='center'>LANGUAGES</h3>
 <p align='center'>
@@ -27,9 +31,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL Badge">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
-
-<h2 align='center'>CONNECT</h2>
-
 
 - 📝 I write articles on [https://misswonder.medium.com/](https://misswonder.medium.com/)
 
