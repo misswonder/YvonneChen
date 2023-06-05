@@ -3,7 +3,7 @@
 
 <h2 align='center'>INTRO</h2>
 
-<h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
+<h3 align="center">I am a passionate Full Stack Software Engineer who thrives on tackling complex problems, exploring innovative features, and embracing emerging technologies. My relentless pursuit of knowledge drives me to continuously enhance my skill set. I take immense satisfaction in crafting high-quality products that not only enrich people's lives, but also demonstrate a robust capacity for application maintenance and scalability.</h3>
 
 
 <h2 align='center'>CONNECT</h2>
